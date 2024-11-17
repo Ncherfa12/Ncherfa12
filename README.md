@@ -18,8 +18,18 @@ Currently a research engineer at IPVM, working on cutting-edge testing in the ph
 
 ## Skills
 
-Programming & Data Analysis: Python (Pandas, Numpy, Scikit-Learn), C++, Machine Learning, Data Cleaning, Feature Engineering, Computer Vision (OpenCV)
-Physical Security Systems: Video Surveillance Testing, Access Control Deployment, Analytics Evaluation, Market Trend Analysis
-Data Science & AI Projects: GPT Model Fine-Tuning, RAG, Data Pipeline Management
-Finance & Commodities: Quantitative Analysis, ETF Futures Trading, Regression Analysis, Commodity Market Dynamics
-Microfluidics & Prototyping: Device Design, Prototyping, Statistical Data Analysis, Manufacturing Process Improvement
+- **Programming & Data Analysis**  
+  Python (Pandas, Numpy, Scikit-Learn), C++, Machine Learning, Data Cleaning, Feature Engineering, Computer Vision (OpenCV)
+
+- **Physical Security Systems**  
+  Video Surveillance Testing, Access Control Deployment, Analytics Evaluation, Market Trend Analysis
+
+- **Data Science & AI Projects**  
+  GPT Model Fine-Tuning, Retrieval-Augmented Generation (RAG), Data Pipeline Management
+
+- **Finance & Commodities**  
+  Quantitative Analysis, ETF Futures Trading, Regression Analysis, Commodity Market Dynamics
+
+- **Microfluidics & Prototyping**  
+  Device Design, Prototyping, Statistical Data Analysis, Manufacturing Process Improvement
+
