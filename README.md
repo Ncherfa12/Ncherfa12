@@ -17,9 +17,9 @@ Currently a research engineer at IPVM, working on cutting-edge testing in the ph
 | **Computer Vision Intern**  | Renzoe Box                                   | Jan 2022 - Feb 2022        | Remote, Texas                     | Developed computer vision models for the cosmetics industry.                                  |
 
 ## Skills
-- **Programming and Data Analysis**: Python, C++, Data Analysis, Machine Learning, Computer Vision
-- **Physical Security**: Video Surveillance, Access Control, Analytics Testing, Market Analysis
-- **Market Research and Reporting**: Analyzing the physical security market, reporting on trends
-- **Data Science and AI Projects**: Data cleaning, feature engineering, fine-tuning GPT models
-- **Finance and Commodities**: Quantitative Analysis, ETF Futures, Commodity Markets, Regression Analysis
-- **Microfluidics and Prototyping**: Device Manufacturing, Prototyping, Statistical Analysis
+
+Programming & Data Analysis: Python (Pandas, Numpy, Scikit-Learn), C++, Machine Learning, Data Cleaning, Feature Engineering, Computer Vision (OpenCV)
+Physical Security Systems: Video Surveillance Testing, Access Control Deployment, Analytics Evaluation, Market Trend Analysis
+Data Science & AI Projects: GPT Model Fine-Tuning, RAG, Data Pipeline Management
+Finance & Commodities: Quantitative Analysis, ETF Futures Trading, Regression Analysis, Commodity Market Dynamics
+Microfluidics & Prototyping: Device Design, Prototyping, Statistical Data Analysis, Manufacturing Process Improvement
